@@ -17,7 +17,7 @@ export default function Home({ blogs }) {
         <div className="cards row justify-content-center">
           {blogs.blogs.map((blog) => {
             return <div class="card mx-4 my-4" style={{ "width": "18rem" }}>
-              <img src="https://revenuearchitects.com/wp-content/uploads/2017/02/Blog_pic-1030x584.png" class="card-img-top" alt="blogimage1" />
+              <img src={blog.image} class="card-img-top" alt="blogimage1" />
 
               <div class="card-body">
                 <h5 class="card-title">{blog.title}</h5>
