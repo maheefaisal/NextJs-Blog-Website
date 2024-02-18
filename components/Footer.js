@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 const Footer = () => {
@@ -92,7 +93,7 @@ const Footer = () => {
             {/* Copyright */}
             <div className="text-center p-3 bg-secondary">
                 © 2020 Copyright:
-                <a className="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+                <Link className="text-white" href="">Mara Blogs</Link>
             </div>
             {/* Copyright */}
         </footer>
