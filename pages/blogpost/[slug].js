@@ -10,6 +10,7 @@ const Slug = ({ myblog }) => {
             <div className="container">
 
                 <h1 className="my-4">{myblog.title}</h1>
+                <img src={myblog.image} alt="" />
                 {myblog.author && <p>Author: {myblog.author}</p>}
                 <p>{myblog.content}</p>
 

@@ -1,50 +1,65 @@
 {
     "blogs":[
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
+        {"title":"Nextjs ",
+        "slug":"nextjs",
         "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://image.lexica.art/full_webp/d8d38b24-003c-4560-824d-a3b3c21f5682"
+        "image":"https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg",
+        "author":"Ehfaz Faisal Mahee"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"ReactJs",
+        
+        "slug":"reactjs",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F39d6cef5649ed5c35b1420198a362baf1bff97a6-1280x939.jpg&w=1080&q=75",
+        "author":"Ehfaz Faisal Mahee"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"HTML",
+        
+        "slug":"html",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://www.dukeuae.com/wp-content/uploads/2022/12/html-tagst.jpg"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"CSS",
+        
+        "slug":"css",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://planetjon.ca/wp-content/uploads/2018/12/css-logo.png"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"BootStrap",
+        
+        "slug":"BootStrap",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"Daisy UI",
+        
+        "slug":"daisy-ui",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://s3-alpha.figma.com/hub/file/3709321768/b28165db-1eed-4f6a-9027-8f3317357e55-cover.png"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"Java Script",
+        
+        "slug":"java-script",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://e0.pxfuel.com/wallpapers/598/669/desktop-wallpaper-why-javascript-is-the-programming-language-of-the-future.jpg"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"Python",
+        
+        "slug":"python",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-1986.png"
     },
-        {"title":"Nextjs Tutorial",
-        "content":"This is content",
-        "slug":"nextjs-tutorial",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa "
+        {"title":"Go Lang",
+        "slug":"go-lang",
+        "author":"Ehfaz Faisal Mahee",
+        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
+        "image":"https://www.nixsolutions.com/uploads/2020/07/Golang.png"
     }
     ]
 }
