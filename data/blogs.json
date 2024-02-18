@@ -1,65 +1,67 @@
 {
-    "blogs":[
-        {"title":"Nextjs ",
-        "slug":"nextjs",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg",
-        "author":"Ehfaz Faisal Mahee"
-    },
-        {"title":"ReactJs",
-        
-        "slug":"reactjs",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F39d6cef5649ed5c35b1420198a362baf1bff97a6-1280x939.jpg&w=1080&q=75",
-        "author":"Ehfaz Faisal Mahee"
-    },
-        {"title":"HTML",
-        
-        "slug":"html",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://www.dukeuae.com/wp-content/uploads/2022/12/html-tagst.jpg"
-    },
-        {"title":"CSS",
-        
-        "slug":"css",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://planetjon.ca/wp-content/uploads/2018/12/css-logo.png"
-    },
-        {"title":"BootStrap",
-        
-        "slug":"BootStrap",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png"
-    },
-        {"title":"Daisy UI",
-        
-        "slug":"daisy-ui",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://s3-alpha.figma.com/hub/file/3709321768/b28165db-1eed-4f6a-9027-8f3317357e55-cover.png"
-    },
-        {"title":"Java Script",
-        
-        "slug":"java-script",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://e0.pxfuel.com/wallpapers/598/669/desktop-wallpaper-why-javascript-is-the-programming-language-of-the-future.jpg"
-    },
-        {"title":"Python",
-        
-        "slug":"python",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-1986.png"
-    },
-        {"title":"Go Lang",
-        "slug":"go-lang",
-        "author":"Ehfaz Faisal Mahee",
-        "content":" voluptates consequatur numquam, explicabo molestiae cumque doloremque nesciunt. Pariatur sint reiciendis maiores fugiat provident quisquam cumque voluptatum possimus laboriosam culpa porro odit, maxime nobis quidem deserunt commodi? Natus error reiciendis aliquid explicabo, minima modi culpa pariatur mollitia ullam libero numquam! Repellat possimus harum consectetur. Dolorem, vero voluptatem, blanditiis assumenda non laborum repellendus reiciendis eveniet labore iusto beatae deserunt et animi alias! Saepe cum ipsa ",
-        "image":"https://www.nixsolutions.com/uploads/2020/07/Golang.png"
-    }
+    "blogs": [
+      {
+        "title": "Nextjs",
+        "slug": "nextjs",
+        "content": "Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations. Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration. Whether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.",
+        "image": "https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg",
+        "author": "Ehfaz Faisal Mahee"
+      },
+      {
+        "title": "ReactJs",
+        "slug": "reactjs",
+        "content": "React, also known as React.js or ReactJS, stands as a freely available and open-source front-end JavaScript library designed for constructing user interfaces through components. Maintained by Meta (formerly Facebook) along with a vibrant community of developers and organizations, React empowers developers to create single-page, mobile, or server-rendered applications, often in tandem with frameworks like Next.js.\n\nReact's primary focus is on handling the user interface and rendering components to the Document Object Model (DOM). As such, React applications frequently incorporate additional libraries for tasks such as routing and client-side functionality. A notable advantage of React lies in its ability to selectively rerender only those portions of a page that have undergone changes, thus avoiding unnecessary rerendering of unchanged DOM elements.",
+        "image": "https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F39d6cef5649ed5c35b1420198a362baf1bff97a6-1280x939.jpg&w=1080&q=75",
+        "author": "Ehfaz Faisal Mahee"
+      },
+      {
+        "title": "HTML",
+        "slug": "html",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "HTML, short for HyperText Markup Language, is the standard markup language for creating web pages and web applications. It provides the structure and layout of a webpage by using various tags and attributes to define different elements such as headings, paragraphs, images, links, and more.\n\nHTML allows developers to organize and format content on a webpage, making it accessible and understandable for users and web browsers alike. With HTML, developers can create interactive and visually appealing websites that cater to a wide range of devices and screen sizes.\n\nAs a foundational technology of the World Wide Web, HTML continues to play a crucial role in shaping the online landscape and driving the evolution of digital experiences.",
+        "image": "https://www.dukeuae.com/wp-content/uploads/2022/12/html-tagst.jpg"
+      },
+      {
+        "title": "CSS",
+        "slug": "css",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML. It controls the layout, formatting, and appearance of web pages, allowing developers to define styles such as colors, fonts, spacing, and positioning.\n\nWith CSS, developers can create visually appealing and consistent designs across different web pages and devices. By separating the content of a webpage from its presentation, CSS promotes better organization and maintainability of code.\n\nCSS offers various features and capabilities, including selectors for targeting specific elements, cascading rules for prioritizing styles, and responsive design techniques for adapting layouts to different screen sizes.\n\nAs an essential technology for web development, CSS plays a crucial role in shaping the visual aesthetics and user experience of websites and web applications.",
+        "image": "https://planetjon.ca/wp-content/uploads/2018/12/css-logo.png"
+      },
+      {
+        "title": "BootStrap",
+        "slug": "BootStrap",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "Bootstrap is a free and open-source front-end framework for developing responsive and mobile-first websites. Developed by Twitter, Bootstrap provides a comprehensive set of CSS classes and JavaScript plugins to streamline web development and ensure consistency across different devices and screen sizes.\n\nWith Bootstrap, developers can quickly prototype and build professional-looking websites with minimal effort. The framework offers pre-designed components such as navigation bars, buttons, forms, and carousels, making it easy to create interactive and visually appealing user interfaces.\n\nBootstrap's grid system allows developers to create responsive layouts that adapt to various viewport sizes, ensuring optimal viewing experiences on desktops, tablets, and smartphones. Additionally, Bootstrap's extensive documentation and community support make it a popular choice among developers for building modern and accessible web applications.\n\nBy leveraging Bootstrap's features and components, developers can accelerate the development process and focus on creating engaging user experiences.",
+        "image": "https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png"
+      },
+      {
+        "title": "Daisy UI",
+        "slug": "daisy-ui",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "Daisy UI is a lightweight and modular front-end framework built for Vue.js applications. Developed by the creators of Tailwind CSS, Daisy UI provides a collection of customizable Vue.js components designed to streamline the development of user interfaces.\n\nWith Daisy UI, developers can leverage pre-styled components such as buttons, cards, forms, and navigation bars to rapidly build responsive and visually appealing web applications. The framework's utility-first approach, inspired by Tailwind CSS, allows developers to create custom designs by applying utility classes directly to HTML elements.\n\nDaisy UI integrates seamlessly with Vue.js projects, enabling developers to enhance their Vue.js applications with minimal setup and configuration. Additionally, the framework offers comprehensive documentation and community support, making it easy for developers to get started and explore its features.\n\nBy using Daisy UI, developers can accelerate the development process and focus on creating engaging user experiences without sacrificing flexibility or performance.",
+        "image": "https://user-images.githubusercontent.com/7342023/101421491-a0313380-3909-11eb-8dd6-6037753af051.png"
+      },
+      {
+        "title": "JavaScript",
+        "slug": "java-script",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "JavaScript is a versatile and powerful programming language commonly used for building dynamic and interactive web applications. As a client-side scripting language, JavaScript runs directly in the web browser and enables developers to manipulate webpage content, respond to user actions, and create engaging user experiences.\n\nWith JavaScript, developers can add functionality to websites such as form validation, interactive maps, animated graphics, and much more. Additionally, JavaScript can be used on the server-side with platforms like Node.js to build scalable and efficient web servers and applications.\n\nJavaScript's popularity and widespread adoption have made it an essential skill for web developers. Its rich ecosystem of libraries and frameworks, such as React, Angular, and Vue.js, further enhances its capabilities and enables developers to build complex and feature-rich applications.\n\nBy mastering JavaScript, developers can unlock endless possibilities for creating innovative and interactive web experiences that delight users and drive business growth.",
+        "image": "https://e0.pxfuel.com/wallpapers/598/669/desktop-wallpaper-why-javascript-is-the-programming-language-of-the-future.jpg"
+      },
+      {
+        "title": "Python",
+        "slug": "python",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "Python is a versatile and high-level programming language known for its simplicity and readability. It is widely used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more.\n\nWith Python, developers can write clear and concise code that is easy to understand and maintain. Its extensive standard library provides built-in modules and functions for performing a wide range of tasks, from file I/O and networking to database access and web scraping.\n\nPython's popularity has been steadily growing due to its flexibility, ease of learning, and strong community support. It has become one of the most popular programming languages in the world and is used by developers, data scientists, researchers, and educators alike.\n\nBy mastering Python, developers can unlock endless possibilities for building powerful and scalable applications across various domains.",
+        "image": "https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png"
+      },
+      {
+        "title": "Go Lang",
+        "slug": "go-lang",
+        "author": "Ehfaz Faisal Mahee",
+        "content": "Go, also known as Golang, is a statically typed, compiled programming language designed for building simple, reliable, and efficient software. Developed by Google, Go combines the performance and efficiency of a statically typed language with the ease of use and productivity of a dynamically typed language.\n\nWith Go, developers can write clean and concise code that is easy to read and maintain. Its built-in concurrency support makes it ideal for developing scalable and concurrent applications, such as web servers, microservices, and distributed systems.\n\nGo's standard library provides a rich set of packages for performing common tasks, including networking, file I/O, cryptography, and more. Additionally, Go's simplicity and robustness make it well-suited for building cloud-native applications and services.\n\nBy embracing Go, developers can take advantage of its performance, simplicity, and concurrency features to build robust and scalable software solutions that meet the demands of modern computing.",
+        "image": "https://miro.medium.com/v2/resize:fit:920/1*CdjOgfolLt_GNJYBzI-1QQ.jpeg"
+      }
     ]
-}
+  }
