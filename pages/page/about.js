@@ -34,8 +34,8 @@ const About = () => {
                             <div class="card">
                                 <img src="https://customersfirstacademy.com/wp-content/uploads/2021/04/How-to-keeping-customers-happy.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                    <h5 class="card-title">Sonali</h5>
+                                    <p class="card-text">Expertise in Next.js website development surpassed all expectations. His attention to detail and dedication to delivering excellence truly set you apart. The seamless user experience he crafted reflects his mastery of his craft. We thank him for his exceptional work, elevating our project to new heights.</p>
                                 </div>
                             </div>
                         </div>
@@ -43,8 +43,8 @@ const About = () => {
                             <div class="card">
                                 <img src="https://customersfirstacademy.com/wp-content/uploads/2021/04/strategies-for-Creating-a-Happy-Customer-1024x576.jpg" alt="..." />
                                 <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                    <h5 class="card-title">George</h5>
+                                    <p class="card-text">Expertise in Next.js website development surpassed all expectations. His attention to detail and dedication to delivering excellence truly set you apart. The seamless user experience he crafted reflects his mastery of his craft. We thank him for his exceptional work, elevating our project to new heights.</p>
                                 </div>
                             </div>
                         </div>
@@ -52,8 +52,8 @@ const About = () => {
                             <div class="card">
                                 <img src="https://www.westlawcanada.com/dynamicdata/images/2106_promote-scores-blog-65774279-500x300.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                                    <h5 class="card-title">Peter</h5>
+                                    <p class="card-text">Expertise in Next.js website development surpassed all expectations. His attention to detail and dedication to delivering excellence truly set you apart. The seamless user experience he crafted reflects his mastery of his craft. We thank him for his exceptional work, elevating our project to new heights.</p>
                                 </div>
                             </div>
                         </div>
